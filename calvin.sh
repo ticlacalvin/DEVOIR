@@ -11,3 +11,4 @@ echo "In Opposite Direction..."
 i=$(($i - 2))
 done
 done
+echo " this is an appendice to see the poll SCM "
