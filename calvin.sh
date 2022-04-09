@@ -7,7 +7,7 @@ i=$(($i + 3))
 while [[ $i -eq 6 ]]
 do
 echo "Iteration No: " $i
-echo"In Opposite Direction..."
+echo "In Opposite Direction..."
 i=$(($i - 2))
 done
 done
