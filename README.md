@@ -1,2 +1,2 @@
 # DEVOIR
-This repo ismjust for my homework
+This repo is just for my homework
