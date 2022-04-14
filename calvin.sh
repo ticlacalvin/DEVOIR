@@ -12,3 +12,4 @@ i=$(($i - 2))
 done
 done
 echo " this is an appendice to see the poll SCM "
+echo "we are really lucky to be here learning devops"

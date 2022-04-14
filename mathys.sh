@@ -1,4 +1,3 @@
-ulysse.sh
 #!/bin/bash
 var=2
 while [[ $var -lt 20 ]]
